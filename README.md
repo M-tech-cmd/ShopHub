@@ -1,227 +1,111 @@
-🛒 ShopHub — Modern E-Commerce UI
-
-
+# 🛒 **ShopHub — Modern E-Commerce UI**
 
 A clean, fast, and responsive online store interface built with modern frontend technologies.
 
+---
 
+### 🔗 **Live Demo:** [https://shop-hub-ashen-rho.vercel.app/](https://shop-hub-ashen-rho.vercel.app/)
 
+### 👨‍💻 **Developer:** M-tech-cmd
 
+---
 
-🔗 Live Demo: https://shop-hub-ashen-rho.vercel.app/🔗 Developer:  M-tech-cmd
+## 🚀 **Overview**
 
+**ShopHub** is a modern E-commerce UI designed for a smooth shopping experience.
+It features clean layouts, dynamic sections, and a fast, responsive interface suitable for:
 
+* Portfolio projects
+* E‑commerce demos
+* Starter templates for real online stores
 
-🚀 Overview
+---
 
+## ✨ **Features**
 
+* 🛍️ **Modern product grid** with clean hierarchy
+* 📱 **Fully responsive** — mobile, tablet & desktop
+* ⚡ **Fast-loading UI** with optimized assets
+* 🎨 **Tailwind CSS styling** for a clean, modern look
+* 🔥 **Reusable components** for scalability
+* 🌐 **Deployed on Vercel** for global performance
 
-ShopHub is a beautifully designed E-commerce UI built for a seamless shopping experience.It features clean product layouts, modern styling, dynamic sections, and a fast, responsive front-end.
+---
 
+## 🛠️ **Tech Stack**
 
+| Category          | Technology        |
+| ----------------- | ----------------- |
+| UI Framework      | **React.js**      |
+| Styling           | **Tailwind CSS**  |
+| Bundler / Runtime | **Vite + Bun**    |
+| Deployment        | **Vercel**        |
+| Components        | Custom / Reusable |
 
-Perfect for e-commerce demos, frontend portfolios, or as a starter template for an actual online shop.
+---
 
+## 📂 **Project Structure**
 
-
-✨ Features
-
-
-
-🛍️ Modern product grid with clean visual hierarchy
-
-
-
-📱 Fully responsive — mobile, tablet & desktop
-
-
-
-⚡ Fast-loading UI optimized for performance
-
-
-
-🎨 Tailwind-powered styling for clean and modern aesthetics
-
-
-
-🔥 Reusable components for flexibility and scaling
-
-
-
-🌐 Deployed on Vercel for instant global performance
-
-
-
-🛠️ Tech Stack
-
-
-
-CategoryTechnology
-
-
-
-
-
-
-
-UI Framework
-
-
-
-React.js
-
-
-
-Styling
-
-
-
-Tailwind CSS
-
-
-
-Bundler / Runtime
-
-
-
-Vite + Bun** (recommended)
-
-
-
-Deployment
-
-
-
-Vercel
-
-
-
-Components
-
-
-
-Custom / Reusable Elements
-
-
-
-📂 Project Structure
-
-
-
+```
 shophub/
-
 ├─ public/                # Static files & images
-
 ├─ src/
-
 │  ├─ components/         # UI components
-
 │  ├─ pages/              # Main pages
-
 │  ├─ assets/             # Images, icons
-
 │  ├─ App.jsx             # Root layout
-
 │  └─ main.jsx            # Entry file
-
 ├─ package.json
-
 └─ README.md
+```
 
+---
 
+## ⚙️ **Installation & Setup (Using Bun)**
 
-
-
-⚙️ Installation & Setup (Using Bun)
-
-
-
+```sh
 git clone https://github.com/yourusername/shophub.git
-
+cd shophub
 bun install
-
 bun dev
+```
 
+Then open the development server at:
 
-
-
-
-Open your browser at:
-
-
-
+```
 http://localhost:5173
+```
 
+---
 
+## 🚀 **Deployment**
 
+Compatible with:
 
+* **Vercel** (recommended)
+* Netlify
+* GitHub Pages (Vite config required)
 
-🚀 Deployment
+---
 
+## 🧩 **Future Enhancements**
 
+* 🛒 Cart system
+* 🔎 Search & filters
+* ⭐ Customer reviews
+* 🧾 Product details page
+* 🌙 Dark mode
 
-ShopHub is fully optimized for platforms like:
+---
 
+## 👨‍💻 **Developer**
 
+Built with passion by **M-tech-cmd**
 
-Vercel (recommended)
+### 🔗 **Socials**
 
-
-
-Netlify
-
-
-
-GitHub Pages (Vite config required)
-
-
-
-🧩 Future Enhancements
-
-
-
-🛒 Shopping cart system
-
-
-
-🔎 Search & product filters
-
-
-
-⭐ Ratings & customer reviews
-
-
-
-🧾 Product details page
-
-
-
-👨‍💻 Developer
-
-
-
-Built with passion by M-tech-cmd
-
-
-
-🔗 Socials
-
-
-
-LinkedIn: linkedin.com/in/manuel-kim-6b1472382
-
-
-
-X (Twitter): x.com/M_tech_cmd
-
-
-
-Instagram: instagram.com/m_tech_cmd
-
-
-
-Facebook Page: facebook.com/M-tech-cmd
-
-
-
-Email: kimaniemma20@gmail.com
+* **LinkedIn:** linkedin.com/in/manuel-kim-6b1472382
+* **X (Twitter):** x.com/M_tech_cmd
+* **Instagram:** instagram.com/m_tech_cmd
+* **Facebook:** facebook.com/M-tech-cmd
+* **Email:** [kimaniemma20@gmail.com](mailto:kimaniemma20@gmail.com)
