@@ -1,73 +1,133 @@
-# Welcome to your Lovable project
+🛒 ShopHub — Modern E-Commerce UI
 
-## Project info
+A clean, fast, and responsive online store interface built with modern frontend technologies.
 
-**URL**: https://lovable.dev/projects/a2f29422-988a-4a1b-a3c7-9abd3acfe49f
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+## 📸 Preview
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a2f29422-988a-4a1b-a3c7-9abd3acfe49f) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/13bb0148b9d7a8890e312d59bb024628d7cd0a3c/src/assets/images/preview1.jpg)
 
-**Use your preferred IDE**
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview2.jpg)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview3.jpg)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview4.jpg)
 
-Follow these steps:
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview5.jpg)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+![image alt](https://github.com/M-tech-cmd/Nike-Website/blob/54eab630f7047a127f8635daf72e4c4c57b30967/src/assets/images/preview6.jpg)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+🔗 Live Demo: https://shop-hub-ashen-rho.vercel.app/🔗 Developer:  M-tech-cmd
 
-**Edit a file directly in GitHub**
+🚀 Overview
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+ShopHub is a beautifully designed E-commerce UI built for a seamless shopping experience.It features clean product layouts, modern styling, dynamic sections, and a fast, responsive front-end.
 
-**Use GitHub Codespaces**
+Perfect for e-commerce demos, frontend portfolios, or as a starter template for an actual online shop.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+✨ Features
 
-## What technologies are used for this project?
+🛍️ Modern product grid with clean visual hierarchy
 
-This project is built with:
+📱 Fully responsive — mobile, tablet & desktop
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+⚡ Fast-loading UI optimized for performance
 
-## How can I deploy this project?
+🎨 Tailwind-powered styling for clean and modern aesthetics
 
-Simply open [Lovable](https://lovable.dev/projects/a2f29422-988a-4a1b-a3c7-9abd3acfe49f) and click on Share -> Publish.
+🔥 Reusable components for flexibility and scaling
 
-## Can I connect a custom domain to my Lovable project?
+🌐 Deployed on Vercel for instant global performance
 
-Yes, you can!
+🛠️ Tech Stack
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+CategoryTechnology
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+
+UI Framework
+
+React.js
+
+Styling
+
+Tailwind CSS
+
+Bundler / Runtime
+
+Vite + Bun** (recommended)
+
+Deployment
+
+Vercel
+
+Components
+
+Custom / Reusable Elements
+
+📂 Project Structure
+
+shophub/
+├─ public/                # Static files & images
+├─ src/
+│  ├─ components/         # UI components
+│  ├─ pages/              # Main pages
+│  ├─ assets/             # Images, icons
+│  ├─ App.jsx             # Root layout
+│  └─ main.jsx            # Entry file
+├─ package.json
+└─ README.md
+
+
+⚙️ Installation & Setup (Using Bun)
+
+git clone https://github.com/yourusername/shophub.git
+bun install
+bun dev
+
+
+Open your browser at:
+
+http://localhost:5173
+
+
+🚀 Deployment
+
+ShopHub is fully optimized for platforms like:
+
+Vercel (recommended)
+
+Netlify
+
+GitHub Pages (Vite config required)
+
+🧩 Future Enhancements
+
+🛒 Shopping cart system
+
+🔎 Search & product filters
+
+⭐ Ratings & customer reviews
+
+🧾 Product details page
+
+👨‍💻 Developer
+
+Built with passion by M-tech-cmd
+
+🔗 Socials
+
+LinkedIn: linkedin.com/in/manuel-kim-6b1472382
+
+X (Twitter): x.com/M_tech_cmd
+
+Instagram: instagram.com/m_tech_cmd
+
+Facebook Page: facebook.com/M-tech-cmd
+
+Email: kimaniemma20@gmail.com
