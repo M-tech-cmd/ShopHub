@@ -109,3 +109,18 @@ Built with passion by **M-tech-cmd**
 * **Instagram:** instagram.com/m_tech_cmd
 * **Facebook:** facebook.com/M-tech-cmd
 * **Email:** [kimaniemma20@gmail.com](mailto:kimaniemma20@gmail.com)
+
+
+## 📸 Preview
+
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview1.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/prevew2.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview3.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview4.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview5.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview6.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview7.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview8.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview9.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview10.jpg)
+![image alt](https://github.com/M-tech-cmd/ShopHub/blob/1a5ebdafb408f0cd2573117d6b8875721cd6fc21/src/assets/images/preview11.jpg)
